@@ -21,6 +21,6 @@ int main() {
         t.join();
     }
 
-    std::cout << "Main: All 5 threads complete! ✅\n";
+    std::cout << "Main: All 5 threads complete! \n";
     return 0;
 }
